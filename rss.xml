@@ -5,7 +5,7 @@
 		<link>https://raw.githubusercontent.com/cyb3rko/google_news_feed/main/rss.xml</link>
 		<description>A scraped RSS feed for the Google News En Telegram Channel</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 28 Apr 2023 08:00:02 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Apr 2023 10:00:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -56,7 +56,7 @@
 		<item>
 			<title>2023-04-17T09:14:21</title>
 			<link>https://t.me/google_nws/3261</link>
-			<description>&lt;img src='https://cdn4.telegram-cdn.org/file/PCvkRPR59DUBuhoFef2mZRFx1A3dyykJsx0lTCYg5rLoBxZ-zHRuHM6f81d5OdE0m-teXEqN7AlIxvVR4utC9bh5ZoeTob4oEsfR6SoLPwONP04y8BTfVYW4bHsnuRak-IOloV7pHTnxdz7ykyPSYDitPK2TYXng4LqJkqXduQYJOm4nMXNy3qVrjuzkWLmSKthmlp5W1jqH79U1wYs5BrkRTg4KXuYCku_KEX5wjlBgyY53-wRxWWuke4N3E-BDNQt79HUQR4tWMe-GNChzBkSZohT3rSDC4EvRKCBU4YaVqCjZGlnjRoqNtzMolRpAxC9ZXavokCjtRVSzSQULMw.jpg'&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Pixel Launcher experiments with hiding the default date on the home screen. &lt;br/&gt;&lt;br/&gt;&lt;/b&gt;Android 14 Beta 1 added a new developer option, ENABLE_SMARTSPACE_DEFAULT_DATE_REMOVED, and it does what it says it does: removes default date on home screen. &lt;br/&gt;&lt;br/&gt;No, this flag &lt;b&gt;does NOT&lt;/b&gt; (&lt;i class='emoji' style='background-image:url('//telegram.org/img/emoji/40/E29D97.png')'&gt;&lt;b&gt;❗️&lt;/b&gt;&lt;/i&gt;) completely removes the At a glance widget, since all other notifications (timer, connected devices, calendar events, etc.) will still show up in that space. This means that you still won&amp;#39;t be able to place anything else in its place. &lt;br/&gt;&lt;br/&gt;&lt;a href='https://t.me/google_nws' target='_blank' rel='noopener' &gt;&lt;b&gt;Google News | En&lt;/b&gt;&lt;/a&gt;</description>
+			<description>&lt;img src='https://cdn4.telegram-cdn.org/file/JV-OMC90BJijSDAJhh2BqJ2E4e2LTDrxKWcLJSm9puI4HfcoN7XX4KVOmdCg9tYRjPTFJBLJj3jfOyIby5Zo3Hg2QU_FkI9TV3Js0EIaxYXgA7weLfzgU-CsfcQadmAPcC44lpZBGRsLOfAOCmLT6L6hbUXD59lpHKV54UG8lA1bVOrYgtKsJoEzRQs1nQWvx3lnMke2cvOYpPqRAkflU3Dj3eSF1Qsp7QAh8KdnAlxLsxkqwuuMcMNBbmVthrXy-Fe-SkFjX4QkofbcvAOud_lqpwYF2Hy2rKYbZuRDy2-WqZLnkDaXZ-BQs2Pawl7N8SoA2sIqEiEkXRPhZI2Thw.jpg'&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Pixel Launcher experiments with hiding the default date on the home screen. &lt;br/&gt;&lt;br/&gt;&lt;/b&gt;Android 14 Beta 1 added a new developer option, ENABLE_SMARTSPACE_DEFAULT_DATE_REMOVED, and it does what it says it does: removes default date on home screen. &lt;br/&gt;&lt;br/&gt;No, this flag &lt;b&gt;does NOT&lt;/b&gt; (&lt;i class='emoji' style='background-image:url('//telegram.org/img/emoji/40/E29D97.png')'&gt;&lt;b&gt;❗️&lt;/b&gt;&lt;/i&gt;) completely removes the At a glance widget, since all other notifications (timer, connected devices, calendar events, etc.) will still show up in that space. This means that you still won&amp;#39;t be able to place anything else in its place. &lt;br/&gt;&lt;br/&gt;&lt;a href='https://t.me/google_nws' target='_blank' rel='noopener' &gt;&lt;b&gt;Google News | En&lt;/b&gt;&lt;/a&gt;</description>
 		</item>
 		<item>
 			<title>2023-04-15T10:48:19</title>
