@@ -5,9 +5,14 @@
 		<link>https://raw.githubusercontent.com/cyb3rko/google_news_feed/main/rss.xml</link>
 		<description>A scraped RSS feed for the Google News En Telegram Channel</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 18 May 2023 14:00:02 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 May 2023 16:00:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>2023-05-18T12:40:14</title>
+			<link>https://t.me/google_nws/3341</link>
+			<description>&lt;b&gt;The first live video of the Pixel 8 Pro showing off the new thermometer feature has been leaked. &lt;br/&gt;&lt;br/&gt;&lt;/b&gt;&lt;a href='https://twitter.com/Za_Raczke/status/1659174453513682945' target='_blank' rel='noopener' &gt;&lt;b&gt;Kuba Wojciechowski&lt;/b&gt;&lt;/a&gt;&lt;b&gt; (via&lt;/b&gt;&lt;a href='https://www.91mobiles.com/hub/exclusive-google-pixel-8-pro-leaked-video-design-built-in-thermometer/' target='_blank' rel='noopener' &gt;&lt;b&gt; 91 Mobiles&lt;/b&gt;&lt;/a&gt;&lt;b&gt;) &lt;/b&gt;has shared a video of the Pixel 8 Pro that reveals the full design of the phone, as well as demonstrating the thermometer feature. &lt;br/&gt;&lt;br/&gt;From a &lt;a href='https://t.me/google_nws/3194' target='_blank' rel='noopener' &gt;previous Pixel 8 Pro renders leak&lt;/a&gt;, we remember that there was an unknown sensor underneath the flash. As it turns out, it&amp;#39;s a special infrared temperature measurement sensor. This sensor is similar to the one used in most non-contact thermometers. In the video we can see a clear demonstration of how this would work. &lt;br/&gt;&lt;br/&gt;In addition to measuring body temperature, the Pixel 8 Pro will be able to measure the temperature of objects. The collected data will be stored locally, and it will be processed through Android Private Compute Core. &lt;br/&gt;&lt;br/&gt;&lt;a href='https://t.me/google_nws' target='_blank' rel='noopener' &gt;&lt;b&gt;Google News | En&lt;/b&gt;&lt;/a&gt;</description>
+		</item>
 		<item>
 			<title>2023-05-18T11:09:55</title>
 			<link>https://t.me/google_nws/3339</link>
@@ -62,11 +67,6 @@
 			<title>2023-05-10T19:07:41</title>
 			<link>https://t.me/google_nws/3322</link>
 			<description>&lt;img src='https://cdn4.telegram-cdn.org/file/LQRTvdtdK2RoJX7hQOvCLb-PCKZRYR9cu6mLjmZFCv7IIr1xjhCjv3nzI3o_O2sHXzgjGpJCEOj2rApQWDuROVPhvN3BZmo8J4zOmX4paWcebSlEsTCWO823hKPLPWBb3LdI-zRiEM1KzWF-w_-lz1lqXOAg1QF_D3lKXya_MnfozmkTPbNRyq0iShFBgY12n0PldfpmoKVvMPBurqAjFO6OzwFFWZqzzpkXwpL2zzNRO891Tvlt0cajAHIJHX4FnJRQalYfsJGrMBWVXFgpLFyw7UiUWMSO9BjxqoroCZMQbxO85igM5LeO0RYyZFKcy6fmOExgbZK5qRGtsBzA1Q.jpg'&gt;&lt;br/&gt;&lt;br/&gt;Google has also slipped in what the updated material you weather design will look like on big screens.&lt;br/&gt;&lt;br/&gt;&lt;a href='https://t.me/google_nws' target='_blank' rel='noopener' &gt;&lt;b&gt;Google News | En&lt;/b&gt;&lt;/a&gt;</description>
-		</item>
-		<item>
-			<title>2023-05-10T19:05:50</title>
-			<link>https://t.me/google_nws/3321</link>
-			<description>&lt;img src='https://cdn4.telegram-cdn.org/file/pyTi78LAkuFhYOcI7d-rnyJO8FVPrwCEapACwfcRLNa91kWr_dPdL_8eWlrm-5fqigRMZTqVWihlUC0d-bbUKG5qASo8zlcZhgCSur9IJJmbChZeoOw_VKSOiUCEBVfLUgsqYMOXXZqLcL68hvRq31-5oTq46lcYmPRLeaKH8RWj7CvFJMGDqO1HtTdfITAWQOxQeOOczeynQRNit4VFsW-wrdBzxl-fo_-Et2JNr_-7dF9wdw5elZs_olJbCc0_OchxsrOa31WiOu1wR2gLfLfptosRYPOrcIe6Q5KYIqY3FrrfWobS5fiKVtps0yK5C67b2bvAXoLISd4T1-q3DA.jpg'&gt;&lt;br/&gt;&lt;br/&gt;The Google Pixel Fold is available for pre-order starting today for &amp;#036;1799. Available starting June 27.&lt;br/&gt;&lt;br/&gt;The pre-order gift includes a free Google Pixel Watch in US, UK and Germany, a Google One subscription with a 2TB plan for 6 months, and 3 months of YouTube Premium.&lt;br/&gt;&lt;br/&gt;&lt;a href='https://t.me/google_nws' target='_blank' rel='noopener' &gt;&lt;b&gt;Google News | En&lt;/b&gt;&lt;/a&gt;</description>
 		</item>
 	</channel>
 </rss>
