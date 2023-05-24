@@ -5,9 +5,14 @@
 		<link>https://raw.githubusercontent.com/cyb3rko/google_news_feed/main/rss.xml</link>
 		<description>A scraped RSS feed for the Google News En Telegram Channel</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 24 May 2023 20:00:02 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 May 2023 22:00:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>2023-05-24T18:49:44</title>
+			<link>https://t.me/google_nws/3346</link>
+			<description>&lt;img src='https://cdn4.telegram-cdn.org/file/HGjIZp245Dg1MA_aP7H33EjfN8GWgdF2471KV3y-EUo3WIrtfeQ5Q1bYD6LxCb3RaqJykUyROwscCSdu9ZDv-RDFFu8fizCmhfn8X3ntatNq6qnjkhSp4bjBM8L_SiY0ti0Gerv23czT7lKyCVqKoxYrqsngWNrPTT--CeAleD1aat7Mntcecgb07Jnzoz8mh5jRqIeDzpmW5vrr6VT4tuw-YYQV4io0z0PtBrxRQQKhoxRQLbmugSxrJL5tXfuOjqMCL2KKlv5ScOHiJF6MFxh-Ewn33kXzFmTjJhIQexbHj3ePki-HNf-oUbiXf3Tr4rWaDU9rym8N1-OPxtjfNg.jpg'&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;A bunch of new upcoming changes to the Google Contacts app: &lt;br/&gt;&lt;br/&gt;&lt;/b&gt;• Redesigned Call, SMS, etc. buttons, which are now presented as a circle with an icon inside. &lt;br/&gt;• A new &amp;#39;Google Maps · Location sharing&amp;#39; tile, which when clicked will open a map with the contact&amp;#39;s location (if they have shared the location with you). &lt;br/&gt;• A new tile will appear on the &amp;#39;Highlights&amp;#39; tab with Suggestions for who to add to your favorites. As stated, this is &amp;quot;&lt;i&gt;based on who you interact with most&lt;/i&gt;&amp;quot;. &lt;br/&gt;&lt;br/&gt;These hidden features complement the &lt;a href='https://t.me/google_nws/3259' target='_blank' rel='noopener' &gt;previous changes I discovered&lt;/a&gt;, such as the time and weather tile by contact&amp;#39;s home address and the new round-frame photo display. &lt;br/&gt;&lt;br/&gt;All of these new features are built inside the latest version 4.9.19.533509922 and require only server-side activation (means, they are not yet available). &lt;br/&gt;&lt;br/&gt;&lt;a href='https://t.me/google_nws' target='_blank' rel='noopener' &gt;&lt;b&gt;Google News | En&lt;/b&gt;&lt;/a&gt;</description>
+		</item>
 		<item>
 			<title>2023-05-24T07:00:46</title>
 			<link>https://t.me/google_nws/3345</link>
