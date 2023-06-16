@@ -5,7 +5,7 @@
 		<link>https://raw.githubusercontent.com/cyb3rko/google_news_feed/main/rss.xml</link>
 		<description>A scraped RSS feed for the Google News En Telegram Channel</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Jun 2023 08:00:02 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 Jun 2023 10:00:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
