@@ -5,9 +5,14 @@
 		<link>https://raw.githubusercontent.com/cyb3rko/google_news_feed/main/rss.xml</link>
 		<description>A scraped RSS feed for the Google News En Telegram Channel</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 03 Jul 2023 18:00:02 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Jul 2023 20:00:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>2023-07-03T17:23:06</title>
+			<link>https://t.me/google_nws/3421</link>
+			<description>&lt;img src='https://cdn4.telegram-cdn.org/file/q31djbxiwOkqfzkGybFhGpEQ_LlLxrm_plGcvv5YIfZMG07APXQBcEwEjFg2tCZ40gtPrsXCyxev8raHP33fq7yf2z-eSd5wznZy5A2QxXeVKm49pgKfEvGar1PpLJxMkTC6fDkRD5YLxL2eytfKSj8slVFKvTF8srVQHz2AUl2lka6xFx_QIwaFzui2uH3sP9jZ5G6U1dwxIdPtJwysCqcRKQwYO1hk0eeQaBu4E8ZEbtNC5SxHkr3lDyBvknK2DMN4ibZBUxp9zGqVrU95CpLMgmTdFc1LHwmjmsVTCztKbsdfrB0B-3E6C4e-H0SOPbdqIwutGtO-NdxUTQgDXg.jpg'&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;The first live shots of the Pixel 8 Pro test prototype.&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;A Reddit user &lt;a href='https://old.reddit.com/r/GooglePixel/comments/14po0sw/p8_pro_pictures/' target='_blank' rel='noopener' &gt;posted &lt;/a&gt;on r/GooglePixel images of an engineering sample of the Pixel 8 Pro, which he says he received them “from the device team in Google for testing.” He quickly deleted his post, but &lt;a href='https://www.droid-life.com/2023/07/03/heres-a-real-life-pixel-8-pro-in-the-wild/' target='_blank' rel='noopener' &gt;Droid-Life managed to save&lt;/a&gt; the images. &lt;br/&gt;&lt;br/&gt;Here, we can see the back and front sides of the smartphone. On the bootloader screen, we can notice the already known codename &amp;quot;husky&amp;quot;, as well as the presence of 12GB of Samsung LPDDR5 RAM and 128GB of storage.&lt;br/&gt;&lt;br/&gt;The Tensor G3 is known to be referred to by the codename &amp;quot;zuma&amp;quot;, which is mentioned here on the back of this test device.&lt;br/&gt;&lt;br/&gt;&lt;a href='https://t.me/google_nws' target='_blank' rel='noopener' &gt;&lt;b&gt;Google News | En&lt;/b&gt;&lt;/a&gt;</description>
+		</item>
 		<item>
 			<title>2023-07-01T21:56:15</title>
 			<link>https://t.me/google_nws/3419</link>
