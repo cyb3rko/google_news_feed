@@ -5,9 +5,14 @@
 		<link>https://raw.githubusercontent.com/cyb3rko/google_news_feed/main/rss.xml</link>
 		<description>A scraped RSS feed for the Google News En Telegram Channel</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Jul 2023 16:00:02 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Jul 2023 18:00:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>2023-07-07T14:42:31</title>
+			<link>https://t.me/google_nws/3424</link>
+			<description>&lt;b&gt;Gboard will have a new undo feature. &lt;br/&gt;&lt;br/&gt;&lt;/b&gt;The latest beta version introduces a hidden undo_access_point flag, which, when enabled, brings a new &amp;quot;undo&amp;quot; button to the access point bar. This will help you undo any action, including deleting part or whole word, or selecting one of the tooltip options. &lt;br/&gt;&lt;br/&gt;The keyboard remembers the entire history of the current text field and can undo actions up to the originally blank line. &lt;br/&gt;&lt;br/&gt;H/T: &lt;a href='https://t.me/rkbdigboard/1602' target='_blank' rel='noopener' &gt;&lt;b&gt;Rboard Themes&lt;br/&gt;&lt;br/&gt;&lt;/b&gt;&lt;/a&gt;&lt;a href='https://t.me/google_nws' target='_blank' rel='noopener' &gt;&lt;b&gt;Google News | En&lt;/b&gt;&lt;/a&gt;</description>
+		</item>
 		<item>
 			<title>2023-07-05T19:59:31</title>
 			<link>https://t.me/google_nws/3423</link>
